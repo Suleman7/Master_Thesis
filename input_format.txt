@@ -1,0 +1,10 @@
+Input file format:
+Activation energy (Ea) //First line
+Gamma
+Life time if exciton
+Time Increment per trial
+Jo
+Number of Monte Carlo trials
+lattice spacing in x direcrtion
+lattice spacing in y direcrtion
+lattice spacing in z direcrtion
